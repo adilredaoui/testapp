@@ -3,6 +3,6 @@ import styles from './page.module.css'
 
 export default function Home() {
   return (
-    <h1>adil</h1>
+    <h1>adil phd student</h1>
   )
 }
